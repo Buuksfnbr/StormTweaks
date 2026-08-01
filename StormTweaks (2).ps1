@@ -12,7 +12,7 @@
 # ---------------------------------------------------------------------------
 # Vérification de la Licence via l'API Serveur
 # ---------------------------------------------------------------------------
-$apiUrl = "https://see-transit-achievements-permit.trycloudflare.com/api/verify"
+$apiUrl = "https://demands-newer-apart-minority.trycloudflare.com"
 
 # Demande la clé à l'utilisateur
 $userKey = Read-Host "Entrez votre clé de licence Storm"
